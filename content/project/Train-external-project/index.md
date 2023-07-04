@@ -11,6 +11,6 @@ date: "2021-09-27T00:00:00Z"
 external_link: https://train.ai-lab.science/team
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  #caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
