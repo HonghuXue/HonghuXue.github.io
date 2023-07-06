@@ -32,7 +32,7 @@ image:
 #slides: example
 ---
 
-I serve as a teaching assistant for this lecture from 2020 to 2023 in University of Luebeck, to generate all exercise sheets with theretical questions and programming tasks, while presenting the solutions and tutoring the students during complete exercise sessions. More information is available at [Univerisity of Luebeck](URL "https://www.rob.uni-luebeck.de/index.php?id=487").
+I serve as a teaching assistant for this lecture from 2020 to 2023 in University of Luebeck, to generate all exercise sheets with theoretical questions and programming tasks, while presenting the solutions and tutoring the students during complete exercise sessions. More information is available at [Univerisity of Luebeck](URL "https://www.rob.uni-luebeck.de/index.php?id=487").
 
 The lecture covers the following topics:
 
