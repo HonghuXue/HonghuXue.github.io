@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Honghu Xue investigates in his doctoral thesis "Sample-efficient Deep Reinforcement Learning ". His methods are applied to navigation tasks. He started his PhD study in March 2019. Prior to that, He received his M.Sc. in Embedded Systems Engineering at Albert-Ludwigs-University of Freiburg with the study focus on Reinforcement Learning, Machine Learning and AI.
+Honghu Xue investigates in his doctoral thesis "Sample-efficient Deep Reinforcement Learning". His methods are applied to navigation tasks. He started his PhD study in March 2019. Prior to that, He received his M.Sc. in Embedded Systems Engineering at Albert-Ludwigs-University of Freiburg with the study focus on Reinforcement Learning, Machine Learning and AI.
 {style="text-align: justify;"}
