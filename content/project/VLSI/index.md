@@ -29,8 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 
-
-We worked as a four-person team from 04.2015 to 08.2015 during my master study in University of Freiburg. The task includes:
+---
+We worked as a four-person team from 04.2015 to 08.2015 during my master study in University of Freiburg. The task includes,
 
 (i) Design and implementation of a simple calculator on FPGA
 
@@ -38,4 +38,3 @@ We worked as a four-person team from 04.2015 to 08.2015 during my master study i
 
 (iii) Implemented via VHDL for hardware part and assembly language for computation part
 
----

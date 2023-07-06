@@ -30,12 +30,11 @@ url_video: ''
 #slides: example
 
 
-We worked as a two-person team from 09.2015 to 02.2016 during my master study in University of Freiburg. The main task includes:
+---
+We worked as a two-person team from 09.2015 to 02.2016 during my master study in University of Freiburg. The main task includes,
 
 (i)Proceeding with the Analog CMOS circuit design project
 
 (ii)Layout Design of a two-stage amplifier in Cadence, i.e., the layout of capacitors and other circuit components
 
 (iii)Performing validation on main standards under different circumstances
-
----

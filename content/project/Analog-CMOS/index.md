@@ -29,13 +29,12 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 
-
-We worked as a two-person team from 04.2015 to 07.2015 during my master study in University of Freiburg. The main task includes:
+---
+We worked as a two-person team from 04.2015 to 07.2015 during my master study in University of Freiburg. The main task includes,
 
 (i)Schematic design of a two-stage amplifier through Cadence
 
-(ii)Tuning Circuit parameter to meet various standards e.g. Unity Gain Bandwidth, pole-zero compensation , Ac gain, Phase Margin ...
+(ii)Tuning Circuit parameter to meet various standards e.g. Unity Gain Bandwidth, pole-zero compensation , Ac gain, Phase Margin and etc.
 
 (iii)Conducting Monte-Carlo and Corner Simulation
 
----
