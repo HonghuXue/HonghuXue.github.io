@@ -1,9 +1,9 @@
 ---
-title: Mixed-Signal CMOS Design
+title: Mixed-Signal CMOS Circuit Design
 summary: Using Cadence Software to design the layout of a two-stage amplifier satisfying the constraints
 #tags:
 #  - Deep Learning
-date: '2015-09-27T00:00:00Z'
+date: '2014-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
