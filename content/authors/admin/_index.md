@@ -27,7 +27,7 @@ bio: My research interests include Dep Reinforcement Learning and Deep Learning.
 # Interests to show in About widget
 interests:
   - Deep Reinforcement Learning (Sample-efficient Deep RL, Model-based RL, Automatic Curriculum Learning, Efficient Exploration Strategies, Distributional RL)
-  - Deep Learning (Time Series Prediction, Probabilistic Deep Learning, Generation of High Resolution Images, Video Prediction)
+  - Deep Learning (Time Series Prediction, Attention Mechanism, Probabilistic Deep Learning, Generation of High Resolution Images, Video Prediction)
   # - Information Retrieval
 
 # Education to show in About widget
